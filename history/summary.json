@@ -22,19 +22,19 @@
     "url": "https://jcnhdvjdnbvk.000webhostapp.com/Home/Index",
     "icon": "https://icons.duckduckgo.com/ip3/jcnhdvjdnbvk.000webhostapp.com.ico",
     "slug": "prueba-tecnica",
-    "status": "down",
-    "uptime": "91.22%",
-    "uptimeDay": "91.22%",
-    "uptimeWeek": "91.22%",
-    "uptimeMonth": "91.22%",
-    "uptimeYear": "91.22%",
-    "time": 650,
-    "timeDay": 650,
-    "timeWeek": 650,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "status": "up",
+    "uptime": "84.39%",
+    "uptimeDay": "84.39%",
+    "uptimeWeek": "84.39%",
+    "uptimeMonth": "84.39%",
+    "uptimeYear": "84.39%",
+    "time": 628,
+    "timeDay": 628,
+    "timeWeek": 628,
+    "timeMonth": 628,
+    "timeYear": 628,
     "dailyMinutesDown": {
-      "2023-02-27": 36
+      "2023-02-27": 69
     }
   },
   {
